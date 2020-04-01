@@ -20,9 +20,9 @@
 //					isDivisible = true;
 //				}
 //				else isDivisible = false;
-//				if(isDivisible == true)
+//				if (isDivisible == true)
 //				{
-//					while(primeTestNumber < currentNumber)
+//					while (primeTestNumber < currentNumber)
 //					{
 //						if (currentNumber % primeTestNumber == 0)
 //						{
@@ -30,11 +30,11 @@
 //						}
 //						primeTestNumber += 1;
 //					}
-//					if(primeTestNumber == currentNumber)
+//					if (primeTestNumber == currentNumber)
 //					{
 //						newLargest = currentNumber;
 //					}
-//					if(newLargest > currentLargest)
+//					if (newLargest > currentLargest)
 //					{
 //						currentLargest = newLargest;
 //						Console.WriteLine(currentNumber);
