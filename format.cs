@@ -2,11 +2,11 @@
 
 //namespace Project_Euler
 //{
-//	class
-//	{
-//		static void Main(string[] args)
-//		{
-			
-//		}
-//	}
+//    class
+//    {
+//        static void Main(string[] args)
+//        {
+
+//        }
+//    }
 //}
