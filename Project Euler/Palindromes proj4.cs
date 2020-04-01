@@ -22,19 +22,19 @@
 //			int currentHighest = 0;
 //			int testHighest;
 
-//			while(currentNumber2 <= highestNumber)
+//			while (currentNumber2 <= highestNumber)
 //			{
 //				initAnswer = currentNumber1 * currentNumber2;
 //				string initAnswerTest = initAnswer.ToString();
-//				if(initAnswerTest == StringHelper.ReverseString(initAnswer.ToString()))
+//				if (initAnswerTest == StringHelper.ReverseString(initAnswer.ToString()))
 //				{
 //					testHighest = initAnswer;
-//					if(testHighest > currentHighest)
+//					if (testHighest > currentHighest)
 //					{
 //						currentHighest = testHighest;
 //					}
 //				}
-//				if(currentNumber1 == highestNumber)
+//				if (currentNumber1 == highestNumber)
 //				{
 //					currentNumber1 = 0;
 //					currentNumber2 += 1;
